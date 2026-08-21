@@ -1,6 +1,6 @@
 {
   "name": "jsonld-item",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Work with JSON-LD / Hydra items and collections: read an IRI or a type, extract an id, build items and collections.",
   "keywords": [
     "json-ld",
